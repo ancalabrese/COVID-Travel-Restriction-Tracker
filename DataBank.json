@@ -1,7 +1,5 @@
 {
-	"countries": {
 		"UK": {
-			"30/06/2021": {
 				"green": {
 					"Anguilla": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
 					"Antarctica/British Antarctic Territory": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
@@ -239,6 +237,4 @@
 					"Zimbabwe": ""
 				}
 			}
-		}
-	}
 }
