@@ -1,240 +1,1716 @@
 {
-		"UK": {
-				"green": {
-					"Anguilla": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Antarctica/British Antarctic Territory": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Antigua and Barbuda": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Australia": "",
-					"Balearic islands (Formentera, Ibiza, Mallorca, Menorca)": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Barbados": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Bermuda": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"British Indian Ocean Territory": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"British Virgin Islands": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Brunei": "",
-					"Cayman Islands": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Dominica": "Green watchlist – at risk of moving from green to amber.Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Falkland Islands": "",
-					"Faroe Islands": "",
-					"Gibraltar": "",
-					"Grenada": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Iceland": "",
-					"Israel and Jerusalem": "Green watchlist – at risk of moving from green to amber.",
-					"Madeira": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Malta": "Moved to green list 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Montserrat": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"New Zealand": "",
-					"Pitcairn, Henderson, Ducie and Oeno Islands": "Green watchlist – at risk of moving from green to amber.Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Singapore": "",
-					"South Georgia and South Sandwich Islands": "",
-					"St Helena, Ascension and Tristan da Cunha": "",
-					"Turks and Caicos Islands": "Green watchlist – at risk of moving from green to amber. Moved to green watchlist 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules."
-				},
-				"amber": {
-					"Akrotiri and Dhekelia": "",
-					"Albania": "",
-					"Algeria": "",
-					"Andorra": "",
-					"Armenia": "",
-					"Aruba": "",
-					"Austria": "",
-					"Azerbaijan": "",
-					"The Bahamas": "",
-					"Belarus": "",
-					"Belgium": "",
-					"Belize": "",
-					"Benin": "",
-					"Bhutan": "",
-					"Bonaire, Sint Eustatius and Saba": "",
-					"Bosnia and Herzegovina": "",
-					"Bulgaria": "",
-					"Burkina Faso": "",
-					"Cambodia": "",
-					"Cameroon": "",
-					"Canada": "",
-					"Central African Republic": "",
-					"Chad": "",
-					"China": "",
-					"Comoros": "",
-					"Congo": "",
-					"Cook Islands, Tokelau and Niue": "",
-					"Côte d’Ivoire": "",
-					"Croatia": "",
-					"Cuba": "",
-					"Curaçao": "",
-					"Cyprus": "",
-					"Czech Republic (Czechia)": "",
-					"Denmark": "",
-					"Djibouti": "",
-					"El Salvador": "",
-					"Equatorial Guinea": "",
-					"Estonia": "",
-					"Fiji": "",
-					"Finland": "",
-					"France": "",
-					"French Polynesia": "",
-					"Gabon": "",
-					"The Gambia": "",
-					"Georgia": "",
-					"Germany": "",
-					"Ghana": "",
-					"Greece (including islands)": "",
-					"Greenland": "",
-					"Guadeloupe": "",
-					"Guatemala": "",
-					"Guinea": "",
-					"Guinea-Bissau": "",
-					"Honduras": "",
-					"Hong Kong": "",
-					"Hungary": "",
-					"Indonesia": "",
-					"Iran": "",
-					"Iraq": "",
-					"Italy": "",
-					"Jamaica": "",
-					"Japan": "",
-					"Jordan": "",
-					"Kazakhstan": "",
-					"Kiribati": "",
-					"Kosovo": "",
-					"Kuwait": "",
-					"Kyrgyzstan": "",
-					"Laos": "",
-					"Latvia": "",
-					"Lebanon": "",
-					"Liberia": "",
-					"Libya": "",
-					"Liechtenstein": "",
-					"Lithuania": "",
-					"Luxembourg": "",
-					"Macao": "",
-					"Madagascar": "",
-					"Malaysia": "",
-					"Mali": "",
-					"Marshall Islands": "",
-					"Martinique": "",
-					"Mauritania": "",
-					"Mauritius": "",
-					"Mayotte": "",
-					"Mexico": "",
-					"Micronesia": "",
-					"Moldova": "",
-					"Monaco": "",
-					"Montenegro": "",
-					"Morocco": "",
-					"Myanmar (Burma)": "",
-					"Nauru": "",
-					"Netherlands": "",
-					"New Caledonia": "",
-					"Nicaragua": "",
-					"Niger": "",
-					"Nigeria": "",
-					"North Korea": "",
-					"North Macedonia": "",
-					"Norway": "",
-					"The Occupied Palestinian Territories": "",
-					"Palau": "",
-					"Papua New Guinea": "",
-					"Poland": "",
-					"Portugal (including the Azores)": "Madeira is on the green watchlist.",
-					"Réunion": "",
-					"Romania": "",
-					"Russia": "",
-					"Samoa": "",
-					"San Marino": "",
-					"Sao Tome and Principe": "",
-					"Saudi Arabia": "",
-					"Senegal": "",
-					"Serbia": "",
-					"Sierra Leone": "",
-					"Slovakia": "",
-					"Slovenia": "",
-					"Solomon Islands": "",
-					"South Korea": "",
-					"South Sudan": "",
-					"Spain (including the Canary Islands)": "The Balearic islands are on the green watchlist.",
-					"St Kitts and Nevis": "",
-					"St Lucia": "",
-					"St Maarten": "",
-					"St Martin and St Barthélemy": "",
-					"St Pierre and Miquelon": "",
-					"St Vincent and the Grenadines": "",
-					"Sweden": "",
-					"Switzerland": "",
-					"Syria": "",
-					"Taiwan": "",
-					"Tajikistan": "",
-					"Thailand": "",
-					"Timor-Leste": "",
-					"Togo": "",
-					"Tonga": "",
-					"Turkmenistan": "",
-					"Tuvalu": "",
-					"Ukraine": "",
-					"United States (USA)": "",
-					"Uzbekistan": "",
-					"Vanuatu": "",
-					"Vietnam": "",
-					"Wallis and Futuna": "",
-					"Western Sahara": "",
-					"Yemen": ""
-				},
-				"red": {
-					"Afghanistan": "",
-					"Angola": "",
-					"Argentina": "",
-					"Bahrain": "",
-					"Bangladesh": "",
-					"Bolivia": "",
-					"Botswana": "",
-					"Brazil": "",
-					"Burundi": "",
-					"Cape Verde": "",
-					"Chile": "",
-					"Colombia": "",
-					"Congo (Democratic Republic)": "",
-					"Costa Rica": "",
-					"Dominican Republic": "Moved to the red list 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Ecuador": "",
-					"Egypt": "",
-					"Eritrea": "Moved to the red list 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Eswatini": "",
-					"Ethiopia": "",
-					"French Guiana": "",
-					"Guyana": "",
-					"Haiti": "Moved to the red list 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"India": "",
-					"Kenya": "",
-					"Lesotho": "",
-					"Malawi": "",
-					"Maldives": "",
-					"Mongolia": "Moved to the red list 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Mozambique": "",
-					"Namibia": "",
-					"Nepal": "",
-					"Oman": "",
-					"Pakistan": "",
-					"Panama": "",
-					"Paraguay": "",
-					"Peru": "",
-					"Philippines": "",
-					"Qatar": "",
-					"Rwanda": "",
-					"Seychelles": "",
-					"Somalia": "",
-					"South Africa": "",
-					"Sri Lanka": "",
-					"Sudan": "",
-					"Suriname": "",
-					"Tanzania": "",
-					"Trinidad and Tobago": "",
-					"Tunisia": "Moved to the red list 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"Turkey": "",
-					"Uganda": "Moved to the red list 4am Wednesday 30 June. If you arrived in England before then, you need to follow the amber list rules.",
-					"United Arab Emirates (UAE)": "",
-					"Uruguay": "",
-					"Venezuela": "",
-					"Zambia": "",
-					"Zimbabwe": ""
-				}
-			}
+	"red": [
+		{
+			"name": "Afghanistan",
+			"extra": ""
+		},
+		{
+			"name": "Angola",
+			"extra": ""
+		},
+		{
+			"name": "Argentina",
+			"extra": ""
+		},
+		{
+			"name": "Bahrain",
+			"extra": ""
+		},
+		{
+			"name": "Bangladesh",
+			"extra": ""
+		},
+		{
+			"name": "Bolivia",
+			"extra": ""
+		},
+		{
+			"name": "Botswana",
+			"extra": ""
+		},
+		{
+			"name": "Brazil",
+			"extra": ""
+		},
+		{
+			"name": "Burundi",
+			"extra": ""
+		},
+		{
+			"name": "Cape Verde",
+			"extra": ""
+		},
+		{
+			"name": "Chile",
+			"extra": ""
+		},
+		{
+			"name": "Colombia",
+			"extra": ""
+		},
+		{
+			"name": "Congo (Democratic Republic)",
+			"extra": ""
+		},
+		{
+			"name": "Costa Rica",
+			"extra": ""
+		},
+		{
+			"name": "Cuba",
+			"extra": ""
+		},
+		{
+			"name": "Dominican Republic",
+			"extra": ""
+		},
+		{
+			"name": "Ecuador",
+			"extra": ""
+		},
+		{
+			"name": "Egypt",
+			"extra": ""
+		},
+		{
+			"name": "Eritrea",
+			"extra": ""
+		},
+		{
+			"name": "Eswatini",
+			"extra": ""
+		},
+		{
+			"name": "Ethiopia",
+			"extra": ""
+		},
+		{
+			"name": "French Guiana",
+			"extra": ""
+		},
+		{
+			"name": "Guyana",
+			"extra": ""
+		},
+		{
+			"name": "Haiti",
+			"extra": ""
+		},
+		{
+			"name": "India",
+			"extra": ""
+		},
+		{
+			"name": "Indonesia",
+			"extra": ""
+		},
+		{
+			"name": "Kenya",
+			"extra": ""
+		},
+		{
+			"name": "Lesotho",
+			"extra": ""
+		},
+		{
+			"name": "Malawi",
+			"extra": ""
+		},
+		{
+			"name": "Maldives",
+			"extra": ""
+		},
+		{
+			"name": "Mongolia",
+			"extra": ""
+		},
+		{
+			"name": "Mozambique",
+			"extra": ""
+		},
+		{
+			"name": "Myanmar",
+			"extra": ""
+		},
+		{
+			"name": "Namibia",
+			"extra": ""
+		},
+		{
+			"name": "Nepal",
+			"extra": ""
+		},
+		{
+			"name": "Oman",
+			"extra": ""
+		},
+		{
+			"name": "Pakistan",
+			"extra": ""
+		},
+		{
+			"name": "Panama",
+			"extra": ""
+		},
+		{
+			"name": "Paraguay",
+			"extra": ""
+		},
+		{
+			"name": "Peru",
+			"extra": ""
+		},
+		{
+			"name": "Philippines",
+			"extra": ""
+		},
+		{
+			"name": "Qatar",
+			"extra": ""
+		},
+		{
+			"name": "Rwanda",
+			"extra": ""
+		},
+		{
+			"name": "Seychelles",
+			"extra": ""
+		},
+		{
+			"name": "Sierra Leone",
+			"extra": ""
+		},
+		{
+			"name": "Somalia",
+			"extra": ""
+		},
+		{
+			"name": "South Africa",
+			"extra": ""
+		},
+		{
+			"name": "Sri Lanka",
+			"extra": ""
+		},
+		{
+			"name": "Sudan",
+			"extra": ""
+		},
+		{
+			"name": "Suriname",
+			"extra": ""
+		},
+		{
+			"name": "Tanzania",
+			"extra": ""
+		},
+		{
+			"name": "Trinidad and Tobago",
+			"extra": ""
+		},
+		{
+			"name": "Tunisia",
+			"extra": ""
+		},
+		{
+			"name": "Turkey",
+			"extra": ""
+		},
+		{
+			"name": "Uganda",
+			"extra": ""
+		},
+		{
+			"name": "United Arab Emirates (UAE)",
+			"extra": ""
+		},
+		{
+			"name": "Uruguay",
+			"extra": ""
+		},
+		{
+			"name": "Venezuela",
+			"extra": ""
+		},
+		{
+			"name": "Zambia",
+			"extra": ""
+		},
+		{
+			"name": "Zimbabwe",
+			"extra": ""
+		},
+		{
+			"name": "Akrotiri and Dhekelia",
+			"extra": ""
+		},
+		{
+			"name": "Albania",
+			"extra": ""
+		},
+		{
+			"name": "Algeria",
+			"extra": ""
+		},
+		{
+			"name": "Andorra",
+			"extra": ""
+		},
+		{
+			"name": "Armenia",
+			"extra": ""
+		},
+		{
+			"name": "Aruba",
+			"extra": ""
+		},
+		{
+			"name": "Austria",
+			"extra": ""
+		},
+		{
+			"name": "Azerbaijan",
+			"extra": ""
+		},
+		{
+			"name": "The Bahamas",
+			"extra": ""
+		},
+		{
+			"name": "Belarus",
+			"extra": ""
+		},
+		{
+			"name": "Belgium",
+			"extra": ""
+		},
+		{
+			"name": "Belize",
+			"extra": ""
+		},
+		{
+			"name": "Benin",
+			"extra": ""
+		},
+		{
+			"name": "Bhutan",
+			"extra": ""
+		},
+		{
+			"name": "Bonaire, Sint Eustatius and Saba",
+			"extra": ""
+		},
+		{
+			"name": "Bosnia and Herzegovina",
+			"extra": ""
+		},
+		{
+			"name": "British Virgin Islands",
+			"extra": ""
+		},
+		{
+			"name": "Burkina Faso",
+			"extra": ""
+		},
+		{
+			"name": "Cambodia",
+			"extra": ""
+		},
+		{
+			"name": "Cameroon",
+			"extra": ""
+		},
+		{
+			"name": "Canada",
+			"extra": ""
+		},
+		{
+			"name": "Central African Republic",
+			"extra": ""
+		},
+		{
+			"name": "Chad",
+			"extra": ""
+		},
+		{
+			"name": "China",
+			"extra": ""
+		},
+		{
+			"name": "Comoros",
+			"extra": ""
+		},
+		{
+			"name": "Congo",
+			"extra": ""
+		},
+		{
+			"name": "Cook Islands, Tokelau and Niue",
+			"extra": ""
+		},
+		{
+			"name": "Côte d’Ivoire",
+			"extra": ""
+		},
+		{
+			"name": "Curaçao",
+			"extra": ""
+		},
+		{
+			"name": "Cyprus",
+			"extra": ""
+		},
+		{
+			"name": "Czech Republic (Czechia)",
+			"extra": ""
+		},
+		{
+			"name": "Denmark",
+			"extra": ""
+		},
+		{
+			"name": "Djibouti",
+			"extra": ""
+		},
+		{
+			"name": "El Salvador",
+			"extra": ""
+		},
+		{
+			"name": "Equatorial Guinea",
+			"extra": ""
+		},
+		{
+			"name": "Estonia",
+			"extra": ""
+		},
+		{
+			"name": "Fiji",
+			"extra": ""
+		},
+		{
+			"name": "Finland",
+			"extra": ""
+		},
+		{
+			"name": "France",
+			"extra": ""
+		},
+		{
+			"name": "French Polynesia",
+			"extra": ""
+		},
+		{
+			"name": "Gabon",
+			"extra": ""
+		},
+		{
+			"name": "The Gambia",
+			"extra": ""
+		},
+		{
+			"name": "Georgia",
+			"extra": ""
+		},
+		{
+			"name": "Germany",
+			"extra": ""
+		},
+		{
+			"name": "Ghana",
+			"extra": ""
+		},
+		{
+			"name": "Greece (including islands)",
+			"extra": ""
+		},
+		{
+			"name": "Greenland",
+			"extra": ""
+		},
+		{
+			"name": "Guadeloupe",
+			"extra": ""
+		},
+		{
+			"name": "Guatemala",
+			"extra": ""
+		},
+		{
+			"name": "Guinea",
+			"extra": ""
+		},
+		{
+			"name": "Guinea-Bissau",
+			"extra": ""
+		},
+		{
+			"name": "Honduras",
+			"extra": ""
+		},
+		{
+			"name": "Hungary",
+			"extra": ""
+		},
+		{
+			"name": "Iran",
+			"extra": ""
+		},
+		{
+			"name": "Iraq",
+			"extra": ""
+		},
+		{
+			"name": "Italy",
+			"extra": ""
+		},
+		{
+			"name": "Jamaica",
+			"extra": ""
+		},
+		{
+			"name": "Japan",
+			"extra": ""
+		},
+		{
+			"name": "Jordan",
+			"extra": ""
+		},
+		{
+			"name": "Kazakhstan",
+			"extra": ""
+		},
+		{
+			"name": "Kiribati",
+			"extra": ""
+		},
+		{
+			"name": "Kosovo",
+			"extra": ""
+		},
+		{
+			"name": "Kuwait",
+			"extra": ""
+		},
+		{
+			"name": "Kyrgyzstan",
+			"extra": ""
+		},
+		{
+			"name": "Laos",
+			"extra": ""
+		},
+		{
+			"name": "Latvia",
+			"extra": ""
+		},
+		{
+			"name": "Lebanon",
+			"extra": ""
+		},
+		{
+			"name": "Liberia",
+			"extra": ""
+		},
+		{
+			"name": "Libya",
+			"extra": ""
+		},
+		{
+			"name": "Liechtenstein",
+			"extra": ""
+		},
+		{
+			"name": "Lithuania",
+			"extra": ""
+		},
+		{
+			"name": "Luxembourg",
+			"extra": ""
+		},
+		{
+			"name": "Macao",
+			"extra": ""
+		},
+		{
+			"name": "Madagascar",
+			"extra": ""
+		},
+		{
+			"name": "Malaysia",
+			"extra": ""
+		},
+		{
+			"name": "Mali",
+			"extra": ""
+		},
+		{
+			"name": "Marshall Islands",
+			"extra": ""
+		},
+		{
+			"name": "Martinique",
+			"extra": ""
+		},
+		{
+			"name": "Mauritania",
+			"extra": ""
+		},
+		{
+			"name": "Mauritius",
+			"extra": ""
+		},
+		{
+			"name": "Mayotte",
+			"extra": ""
+		},
+		{
+			"name": "Mexico",
+			"extra": ""
+		},
+		{
+			"name": "Micronesia",
+			"extra": ""
+		},
+		{
+			"name": "Moldova",
+			"extra": ""
+		},
+		{
+			"name": "Monaco",
+			"extra": ""
+		},
+		{
+			"name": "Montenegro",
+			"extra": ""
+		},
+		{
+			"name": "Morocco",
+			"extra": ""
+		},
+		{
+			"name": "Nauru",
+			"extra": ""
+		},
+		{
+			"name": "Netherlands",
+			"extra": ""
+		},
+		{
+			"name": "New Caledonia",
+			"extra": ""
+		},
+		{
+			"name": "Nicaragua",
+			"extra": ""
+		},
+		{
+			"name": "Niger",
+			"extra": ""
+		},
+		{
+			"name": "Nigeria",
+			"extra": ""
+		},
+		{
+			"name": "North Korea",
+			"extra": ""
+		},
+		{
+			"name": "North Macedonia",
+			"extra": ""
+		},
+		{
+			"name": "Norway",
+			"extra": ""
+		},
+		{
+			"name": "The Occupied Palestinian Territories",
+			"extra": ""
+		},
+		{
+			"name": "Palau",
+			"extra": ""
+		},
+		{
+			"name": "Papua New Guinea",
+			"extra": ""
+		},
+		{
+			"name": "Poland",
+			"extra": ""
+		},
+		{
+			"name": "Portugal (including the Azores)",
+			"extra": ""
+		},
+		{
+			"name": "Réunion",
+			"extra": ""
+		},
+		{
+			"name": "Romania",
+			"extra": ""
+		},
+		{
+			"name": "Russia",
+			"extra": ""
+		},
+		{
+			"name": "Samoa",
+			"extra": ""
+		},
+		{
+			"name": "San Marino",
+			"extra": ""
+		},
+		{
+			"name": "Sao Tome and Principe",
+			"extra": ""
+		},
+		{
+			"name": "Saudi Arabia",
+			"extra": ""
+		},
+		{
+			"name": "Senegal",
+			"extra": ""
+		},
+		{
+			"name": "Serbia",
+			"extra": ""
+		},
+		{
+			"name": "Slovakia",
+			"extra": ""
+		},
+		{
+			"name": "Slovenia",
+			"extra": ""
+		},
+		{
+			"name": "Solomon Islands",
+			"extra": ""
+		},
+		{
+			"name": "South Korea",
+			"extra": ""
+		},
+		{
+			"name": "South Sudan",
+			"extra": ""
+		},
+		{
+			"name": "Spain, including the Canary Islands and the Balearic islands (Formentera, Ibiza, Mallorca, Menorca)",
+			"extra": ""
+		},
+		{
+			"name": "St Kitts and Nevis",
+			"extra": ""
+		},
+		{
+			"name": "St Lucia",
+			"extra": ""
+		},
+		{
+			"name": "St Maarten",
+			"extra": ""
+		},
+		{
+			"name": "St Martin and St Barthélemy",
+			"extra": ""
+		},
+		{
+			"name": "St Pierre and Miquelon",
+			"extra": ""
+		},
+		{
+			"name": "St Vincent and the Grenadines",
+			"extra": ""
+		},
+		{
+			"name": "Sweden",
+			"extra": ""
+		},
+		{
+			"name": "Switzerland",
+			"extra": ""
+		},
+		{
+			"name": "Syria",
+			"extra": ""
+		},
+		{
+			"name": "Tajikistan",
+			"extra": ""
+		},
+		{
+			"name": "Thailand",
+			"extra": ""
+		},
+		{
+			"name": "Timor-Leste",
+			"extra": ""
+		},
+		{
+			"name": "Togo",
+			"extra": ""
+		},
+		{
+			"name": "Tonga",
+			"extra": ""
+		},
+		{
+			"name": "Turkmenistan",
+			"extra": ""
+		},
+		{
+			"name": "Tuvalu",
+			"extra": ""
+		},
+		{
+			"name": "Ukraine",
+			"extra": ""
+		},
+		{
+			"name": "United States (USA)",
+			"extra": ""
+		},
+		{
+			"name": "Uzbekistan",
+			"extra": ""
+		},
+		{
+			"name": "Vanuatu",
+			"extra": ""
+		},
+		{
+			"name": "Vietnam",
+			"extra": ""
+		},
+		{
+			"name": "Wallis and Futuna",
+			"extra": ""
+		},
+		{
+			"name": "Western Sahara",
+			"extra": ""
+		},
+		{
+			"name": "Yemen",
+			"extra": ""
+		},
+		{
+			"name": "Anguilla",
+			"extra": ""
+		},
+		{
+			"name": "Antarctica/British Antarctic Territory",
+			"extra": ""
+		},
+		{
+			"name": "Antigua and Barbuda",
+			"extra": ""
+		},
+		{
+			"name": "Australia",
+			"extra": ""
+		},
+		{
+			"name": "Barbados",
+			"extra": ""
+		},
+		{
+			"name": "Bermuda",
+			"extra": ""
+		},
+		{
+			"name": "British Indian Ocean Territory",
+			"extra": ""
+		},
+		{
+			"name": "Brunei",
+			"extra": ""
+		},
+		{
+			"name": "Bulgaria",
+			"extra": ""
+		},
+		{
+			"name": "Cayman Islands",
+			"extra": ""
+		},
+		{
+			"name": "Croatia",
+			"extra": ""
+		},
+		{
+			"name": "Dominica",
+			"extra": ""
+		},
+		{
+			"name": "Falkland Islands",
+			"extra": ""
+		},
+		{
+			"name": "Faroe Islands",
+			"extra": ""
+		},
+		{
+			"name": "Gibraltar",
+			"extra": ""
+		},
+		{
+			"name": "Grenada",
+			"extra": ""
+		},
+		{
+			"name": "Hong Kong",
+			"extra": ""
+		},
+		{
+			"name": "Iceland",
+			"extra": ""
+		},
+		{
+			"name": "Israel and Jerusalem",
+			"extra": ""
+		},
+		{
+			"name": "Madeira",
+			"extra": ""
+		},
+		{
+			"name": "Malta",
+			"extra": ""
+		},
+		{
+			"name": "Montserrat",
+			"extra": ""
+		},
+		{
+			"name": "New Zealand",
+			"extra": ""
+		},
+		{
+			"name": "Pitcairn, Henderson, Ducie and Oeno Islands",
+			"extra": ""
+		},
+		{
+			"name": "Singapore",
+			"extra": ""
+		},
+		{
+			"name": "South Georgia and South Sandwich Islands",
+			"extra": ""
+		},
+		{
+			"name": "St Helena, Ascension and Tristan da Cunha",
+			"extra": ""
+		},
+		{
+			"name": "Taiwan",
+			"extra": ""
+		},
+		{
+			"name": "Turks and Caicos Islands",
+			"extra": ""
+		}
+	],
+	"amber": [
+		{
+			"name": "Akrotiri and Dhekelia",
+			"extra": ""
+		},
+		{
+			"name": "Albania",
+			"extra": ""
+		},
+		{
+			"name": "Algeria",
+			"extra": ""
+		},
+		{
+			"name": "Andorra",
+			"extra": ""
+		},
+		{
+			"name": "Armenia",
+			"extra": ""
+		},
+		{
+			"name": "Aruba",
+			"extra": ""
+		},
+		{
+			"name": "Austria",
+			"extra": ""
+		},
+		{
+			"name": "Azerbaijan",
+			"extra": ""
+		},
+		{
+			"name": "The Bahamas",
+			"extra": ""
+		},
+		{
+			"name": "Belarus",
+			"extra": ""
+		},
+		{
+			"name": "Belgium",
+			"extra": ""
+		},
+		{
+			"name": "Belize",
+			"extra": ""
+		},
+		{
+			"name": "Benin",
+			"extra": ""
+		},
+		{
+			"name": "Bhutan",
+			"extra": ""
+		},
+		{
+			"name": "Bonaire, Sint Eustatius and Saba",
+			"extra": ""
+		},
+		{
+			"name": "Bosnia and Herzegovina",
+			"extra": ""
+		},
+		{
+			"name": "British Virgin Islands",
+			"extra": ""
+		},
+		{
+			"name": "Burkina Faso",
+			"extra": ""
+		},
+		{
+			"name": "Cambodia",
+			"extra": ""
+		},
+		{
+			"name": "Cameroon",
+			"extra": ""
+		},
+		{
+			"name": "Canada",
+			"extra": ""
+		},
+		{
+			"name": "Central African Republic",
+			"extra": ""
+		},
+		{
+			"name": "Chad",
+			"extra": ""
+		},
+		{
+			"name": "China",
+			"extra": ""
+		},
+		{
+			"name": "Comoros",
+			"extra": ""
+		},
+		{
+			"name": "Congo",
+			"extra": ""
+		},
+		{
+			"name": "Cook Islands, Tokelau and Niue",
+			"extra": ""
+		},
+		{
+			"name": "Côte d’Ivoire",
+			"extra": ""
+		},
+		{
+			"name": "Curaçao",
+			"extra": ""
+		},
+		{
+			"name": "Cyprus",
+			"extra": ""
+		},
+		{
+			"name": "Czech Republic (Czechia)",
+			"extra": ""
+		},
+		{
+			"name": "Denmark",
+			"extra": ""
+		},
+		{
+			"name": "Djibouti",
+			"extra": ""
+		},
+		{
+			"name": "El Salvador",
+			"extra": ""
+		},
+		{
+			"name": "Equatorial Guinea",
+			"extra": ""
+		},
+		{
+			"name": "Estonia",
+			"extra": ""
+		},
+		{
+			"name": "Fiji",
+			"extra": ""
+		},
+		{
+			"name": "Finland",
+			"extra": ""
+		},
+		{
+			"name": "France",
+			"extra": ""
+		},
+		{
+			"name": "French Polynesia",
+			"extra": ""
+		},
+		{
+			"name": "Gabon",
+			"extra": ""
+		},
+		{
+			"name": "The Gambia",
+			"extra": ""
+		},
+		{
+			"name": "Georgia",
+			"extra": ""
+		},
+		{
+			"name": "Germany",
+			"extra": ""
+		},
+		{
+			"name": "Ghana",
+			"extra": ""
+		},
+		{
+			"name": "Greece (including islands)",
+			"extra": ""
+		},
+		{
+			"name": "Greenland",
+			"extra": ""
+		},
+		{
+			"name": "Guadeloupe",
+			"extra": ""
+		},
+		{
+			"name": "Guatemala",
+			"extra": ""
+		},
+		{
+			"name": "Guinea",
+			"extra": ""
+		},
+		{
+			"name": "Guinea-Bissau",
+			"extra": ""
+		},
+		{
+			"name": "Honduras",
+			"extra": ""
+		},
+		{
+			"name": "Hungary",
+			"extra": ""
+		},
+		{
+			"name": "Iran",
+			"extra": ""
+		},
+		{
+			"name": "Iraq",
+			"extra": ""
+		},
+		{
+			"name": "Italy",
+			"extra": ""
+		},
+		{
+			"name": "Jamaica",
+			"extra": ""
+		},
+		{
+			"name": "Japan",
+			"extra": ""
+		},
+		{
+			"name": "Jordan",
+			"extra": ""
+		},
+		{
+			"name": "Kazakhstan",
+			"extra": ""
+		},
+		{
+			"name": "Kiribati",
+			"extra": ""
+		},
+		{
+			"name": "Kosovo",
+			"extra": ""
+		},
+		{
+			"name": "Kuwait",
+			"extra": ""
+		},
+		{
+			"name": "Kyrgyzstan",
+			"extra": ""
+		},
+		{
+			"name": "Laos",
+			"extra": ""
+		},
+		{
+			"name": "Latvia",
+			"extra": ""
+		},
+		{
+			"name": "Lebanon",
+			"extra": ""
+		},
+		{
+			"name": "Liberia",
+			"extra": ""
+		},
+		{
+			"name": "Libya",
+			"extra": ""
+		},
+		{
+			"name": "Liechtenstein",
+			"extra": ""
+		},
+		{
+			"name": "Lithuania",
+			"extra": ""
+		},
+		{
+			"name": "Luxembourg",
+			"extra": ""
+		},
+		{
+			"name": "Macao",
+			"extra": ""
+		},
+		{
+			"name": "Madagascar",
+			"extra": ""
+		},
+		{
+			"name": "Malaysia",
+			"extra": ""
+		},
+		{
+			"name": "Mali",
+			"extra": ""
+		},
+		{
+			"name": "Marshall Islands",
+			"extra": ""
+		},
+		{
+			"name": "Martinique",
+			"extra": ""
+		},
+		{
+			"name": "Mauritania",
+			"extra": ""
+		},
+		{
+			"name": "Mauritius",
+			"extra": ""
+		},
+		{
+			"name": "Mayotte",
+			"extra": ""
+		},
+		{
+			"name": "Mexico",
+			"extra": ""
+		},
+		{
+			"name": "Micronesia",
+			"extra": ""
+		},
+		{
+			"name": "Moldova",
+			"extra": ""
+		},
+		{
+			"name": "Monaco",
+			"extra": ""
+		},
+		{
+			"name": "Montenegro",
+			"extra": ""
+		},
+		{
+			"name": "Morocco",
+			"extra": ""
+		},
+		{
+			"name": "Nauru",
+			"extra": ""
+		},
+		{
+			"name": "Netherlands",
+			"extra": ""
+		},
+		{
+			"name": "New Caledonia",
+			"extra": ""
+		},
+		{
+			"name": "Nicaragua",
+			"extra": ""
+		},
+		{
+			"name": "Niger",
+			"extra": ""
+		},
+		{
+			"name": "Nigeria",
+			"extra": ""
+		},
+		{
+			"name": "North Korea",
+			"extra": ""
+		},
+		{
+			"name": "North Macedonia",
+			"extra": ""
+		},
+		{
+			"name": "Norway",
+			"extra": ""
+		},
+		{
+			"name": "The Occupied Palestinian Territories",
+			"extra": ""
+		},
+		{
+			"name": "Palau",
+			"extra": ""
+		},
+		{
+			"name": "Papua New Guinea",
+			"extra": ""
+		},
+		{
+			"name": "Poland",
+			"extra": ""
+		},
+		{
+			"name": "Portugal (including the Azores)",
+			"extra": ""
+		},
+		{
+			"name": "Réunion",
+			"extra": ""
+		},
+		{
+			"name": "Romania",
+			"extra": ""
+		},
+		{
+			"name": "Russia",
+			"extra": ""
+		},
+		{
+			"name": "Samoa",
+			"extra": ""
+		},
+		{
+			"name": "San Marino",
+			"extra": ""
+		},
+		{
+			"name": "Sao Tome and Principe",
+			"extra": ""
+		},
+		{
+			"name": "Saudi Arabia",
+			"extra": ""
+		},
+		{
+			"name": "Senegal",
+			"extra": ""
+		},
+		{
+			"name": "Serbia",
+			"extra": ""
+		},
+		{
+			"name": "Slovakia",
+			"extra": ""
+		},
+		{
+			"name": "Slovenia",
+			"extra": ""
+		},
+		{
+			"name": "Solomon Islands",
+			"extra": ""
+		},
+		{
+			"name": "South Korea",
+			"extra": ""
+		},
+		{
+			"name": "South Sudan",
+			"extra": ""
+		},
+		{
+			"name": "Spain, including the Canary Islands and the Balearic islands (Formentera, Ibiza, Mallorca, Menorca)",
+			"extra": ""
+		},
+		{
+			"name": "St Kitts and Nevis",
+			"extra": ""
+		},
+		{
+			"name": "St Lucia",
+			"extra": ""
+		},
+		{
+			"name": "St Maarten",
+			"extra": ""
+		},
+		{
+			"name": "St Martin and St Barthélemy",
+			"extra": ""
+		},
+		{
+			"name": "St Pierre and Miquelon",
+			"extra": ""
+		},
+		{
+			"name": "St Vincent and the Grenadines",
+			"extra": ""
+		},
+		{
+			"name": "Sweden",
+			"extra": ""
+		},
+		{
+			"name": "Switzerland",
+			"extra": ""
+		},
+		{
+			"name": "Syria",
+			"extra": ""
+		},
+		{
+			"name": "Tajikistan",
+			"extra": ""
+		},
+		{
+			"name": "Thailand",
+			"extra": ""
+		},
+		{
+			"name": "Timor-Leste",
+			"extra": ""
+		},
+		{
+			"name": "Togo",
+			"extra": ""
+		},
+		{
+			"name": "Tonga",
+			"extra": ""
+		},
+		{
+			"name": "Turkmenistan",
+			"extra": ""
+		},
+		{
+			"name": "Tuvalu",
+			"extra": ""
+		},
+		{
+			"name": "Ukraine",
+			"extra": ""
+		},
+		{
+			"name": "United States (USA)",
+			"extra": ""
+		},
+		{
+			"name": "Uzbekistan",
+			"extra": ""
+		},
+		{
+			"name": "Vanuatu",
+			"extra": ""
+		},
+		{
+			"name": "Vietnam",
+			"extra": ""
+		},
+		{
+			"name": "Wallis and Futuna",
+			"extra": ""
+		},
+		{
+			"name": "Western Sahara",
+			"extra": ""
+		},
+		{
+			"name": "Yemen",
+			"extra": ""
+		},
+		{
+			"name": "Anguilla",
+			"extra": ""
+		},
+		{
+			"name": "Antarctica/British Antarctic Territory",
+			"extra": ""
+		},
+		{
+			"name": "Antigua and Barbuda",
+			"extra": ""
+		},
+		{
+			"name": "Australia",
+			"extra": ""
+		},
+		{
+			"name": "Barbados",
+			"extra": ""
+		},
+		{
+			"name": "Bermuda",
+			"extra": ""
+		},
+		{
+			"name": "British Indian Ocean Territory",
+			"extra": ""
+		},
+		{
+			"name": "Brunei",
+			"extra": ""
+		},
+		{
+			"name": "Bulgaria",
+			"extra": ""
+		},
+		{
+			"name": "Cayman Islands",
+			"extra": ""
+		},
+		{
+			"name": "Croatia",
+			"extra": ""
+		},
+		{
+			"name": "Dominica",
+			"extra": ""
+		},
+		{
+			"name": "Falkland Islands",
+			"extra": ""
+		},
+		{
+			"name": "Faroe Islands",
+			"extra": ""
+		},
+		{
+			"name": "Gibraltar",
+			"extra": ""
+		},
+		{
+			"name": "Grenada",
+			"extra": ""
+		},
+		{
+			"name": "Hong Kong",
+			"extra": ""
+		},
+		{
+			"name": "Iceland",
+			"extra": ""
+		},
+		{
+			"name": "Israel and Jerusalem",
+			"extra": ""
+		},
+		{
+			"name": "Madeira",
+			"extra": ""
+		},
+		{
+			"name": "Malta",
+			"extra": ""
+		},
+		{
+			"name": "Montserrat",
+			"extra": ""
+		},
+		{
+			"name": "New Zealand",
+			"extra": ""
+		},
+		{
+			"name": "Pitcairn, Henderson, Ducie and Oeno Islands",
+			"extra": ""
+		},
+		{
+			"name": "Singapore",
+			"extra": ""
+		},
+		{
+			"name": "South Georgia and South Sandwich Islands",
+			"extra": ""
+		},
+		{
+			"name": "St Helena, Ascension and Tristan da Cunha",
+			"extra": ""
+		},
+		{
+			"name": "Taiwan",
+			"extra": ""
+		},
+		{
+			"name": "Turks and Caicos Islands",
+			"extra": ""
+		}
+	],
+	"green": [
+		{
+			"name": "Anguilla",
+			"extra": ""
+		},
+		{
+			"name": "Antarctica/British Antarctic Territory",
+			"extra": ""
+		},
+		{
+			"name": "Antigua and Barbuda",
+			"extra": ""
+		},
+		{
+			"name": "Australia",
+			"extra": ""
+		},
+		{
+			"name": "Barbados",
+			"extra": ""
+		},
+		{
+			"name": "Bermuda",
+			"extra": ""
+		},
+		{
+			"name": "British Indian Ocean Territory",
+			"extra": ""
+		},
+		{
+			"name": "Brunei",
+			"extra": ""
+		},
+		{
+			"name": "Bulgaria",
+			"extra": ""
+		},
+		{
+			"name": "Cayman Islands",
+			"extra": ""
+		},
+		{
+			"name": "Croatia",
+			"extra": ""
+		},
+		{
+			"name": "Dominica",
+			"extra": ""
+		},
+		{
+			"name": "Falkland Islands",
+			"extra": ""
+		},
+		{
+			"name": "Faroe Islands",
+			"extra": ""
+		},
+		{
+			"name": "Gibraltar",
+			"extra": ""
+		},
+		{
+			"name": "Grenada",
+			"extra": ""
+		},
+		{
+			"name": "Hong Kong",
+			"extra": ""
+		},
+		{
+			"name": "Iceland",
+			"extra": ""
+		},
+		{
+			"name": "Israel and Jerusalem",
+			"extra": ""
+		},
+		{
+			"name": "Madeira",
+			"extra": ""
+		},
+		{
+			"name": "Malta",
+			"extra": ""
+		},
+		{
+			"name": "Montserrat",
+			"extra": ""
+		},
+		{
+			"name": "New Zealand",
+			"extra": ""
+		},
+		{
+			"name": "Pitcairn, Henderson, Ducie and Oeno Islands",
+			"extra": ""
+		},
+		{
+			"name": "Singapore",
+			"extra": ""
+		},
+		{
+			"name": "South Georgia and South Sandwich Islands",
+			"extra": ""
+		},
+		{
+			"name": "St Helena, Ascension and Tristan da Cunha",
+			"extra": ""
+		},
+		{
+			"name": "Taiwan",
+			"extra": ""
+		},
+		{
+			"name": "Turks and Caicos Islands",
+			"extra": ""
+		}
+	]
 }
